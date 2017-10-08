@@ -6,8 +6,8 @@ Boilerplate for authentication using node.js and mongo. Based on Stephen Grider'
 
 Install mongodb
 Run `mongod`
-Run `npm install`
-Run `npm run dev`
+Run `yarn install`
+Run `yarn run dev`
 
 ## Available routes and how it works
 
